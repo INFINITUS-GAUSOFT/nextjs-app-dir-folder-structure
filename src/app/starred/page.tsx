@@ -3,7 +3,7 @@ import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 
-export default function TodoList() {
+export default function StarredPage() {
   return (
     <Container>
       <Box

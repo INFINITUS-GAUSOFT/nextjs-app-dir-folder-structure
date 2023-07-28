@@ -3,7 +3,7 @@ import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 
-export default function TodoList() {
+export default function TasksPage() {
   return (
     <Container>
       <Box
@@ -15,7 +15,7 @@ export default function TodoList() {
         }}
       >
         <Typography variant="body1" gutterBottom>
-          Starred Page
+          Tasks Page
         </Typography>
       </Box>
     </Container>
